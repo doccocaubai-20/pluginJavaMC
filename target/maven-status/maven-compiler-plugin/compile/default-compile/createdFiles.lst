@@ -1,0 +1,6 @@
+com\example\Economy\Database\DatabaseManager.class
+com\example\Economy\Manager\EconomyManager.class
+com\example\Economy\EconomyCore.class
+com\example\Economy\Listener\JoinListener.class
+com\example\Economy\Command\MoneyCommand.class
+com\example\Economy\Listener\PlayerListener.class

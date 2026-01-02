@@ -1,0 +1,11 @@
+name: EconomyPlugin
+version: 1.0
+main: com.example.Economy.EconomyCore
+api-version: 1.21
+author: Huy Le
+
+commands:
+  money:
+    description: Xem số dư tài khoản
+    usage: /money [give] [player] [amount]
+    aliases: [bal, balance]

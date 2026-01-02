@@ -1,0 +1,7 @@
+database:
+  host: "172.18.0.1"
+  port: 3306
+  database: "s36_economy"
+  username: "u36_ZgUD3uy0gL"
+  password: "B+mVyJ0OWfHZlN0b!fGAzF!Y"
+  pool-size: 10 # Số lượng kết nối tối đa giữ trong bể
